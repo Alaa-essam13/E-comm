@@ -1,16 +1,12 @@
 package com.example.e_comm.data
 
-import com.example.e_comm.data.Localdata.AppDatabase
-import com.example.e_comm.domain.Item
 import com.example.e_comm.data.Localdata.ItemsDao
 import com.example.e_comm.data.Localdata.ItemsFavState
 import com.example.e_comm.data.Localdata.LocalItem
 import com.example.e_comm.data.remotedata.ApiService
-import com.example.e_comm.ecommApp
+import com.example.e_comm.domain.Item
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
-import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
 import javax.inject.Inject
 
 class Repository @Inject constructor(
