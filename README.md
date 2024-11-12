@@ -1,10 +1,20 @@
-#E-Comm App
+> #E-Comm App
+> ##e-comm app 
+in this app you can add items to cart then buy it you and add items to fav list you can search about it in search page 
+##used in this app 
+###jetpack Compose for UI
+###Room
+###Retrofit
+###Firebase (storage - realtime) to store data
+###MVVM
+###Hilt
 
 
 
+> #UI
 
 
-#UI
+
 ![image](https://github.com/user-attachments/assets/e073240b-047f-42b3-8dd7-ee096b4bef85)
 ![image](https://github.com/user-attachments/assets/93f80929-0e05-4bd7-a59d-9d81337f58f5)
 ![image](https://github.com/user-attachments/assets/0c0fc3b8-34a3-44fa-80ee-de85b10973f4)
