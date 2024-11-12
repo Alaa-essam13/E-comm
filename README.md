@@ -10,7 +10,7 @@ in this app you can add items to cart then buy it you and add items to fav list 
 
 
 
-> ## UI
+## UI
 
 
 
