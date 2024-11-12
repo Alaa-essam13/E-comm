@@ -24,8 +24,7 @@ class Repository @Inject constructor(
         try {
             updateLocalDatabase()
         } catch (ex: Exception) {
-            throw ex
-//            if (dao.getAllItems().isEmpty()) throw Exception("Something went wrong")
+            if (dao.getAllItems().isEmpty()) throw Exception("Something went wrong")
         }
     }
 
