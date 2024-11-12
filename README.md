@@ -1,4 +1,4 @@
-> # E-Comm App
+> # `E-Comm App `
 
 
 > ## e-comm app 
@@ -13,7 +13,7 @@ in this app you can add items to cart then buy it you and add items to fav list 
 
 
 
-> #UI
+> # UI
 
 
 
